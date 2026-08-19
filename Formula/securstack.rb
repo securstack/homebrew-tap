@@ -1,5 +1,5 @@
 class Securstack < Formula
-  desc "SecurStack CLI for repository security scans and Shielding workflows"
+  desc "Run repository security scans and Shielding workflows"
   homepage "https://securstack.io"
   version "0.2.0"
 
